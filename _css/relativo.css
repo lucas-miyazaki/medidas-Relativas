@@ -1,0 +1,36 @@
+html {
+    font-size: 40px;
+}
+
+.div_Um, .div_Dois, .div_Tres {
+    background-color: chocolate;
+    font-size: 30px;
+}
+
+.paragrafo1 {
+    font-size: 2em;
+}
+
+.paragrafo2 {
+    font-size: 2rem;
+}
+
+.paragrafo3 {
+    font-size: 20%;
+}
+
+.paragrafo4 {
+    font-size: 1.4vh;
+}
+
+.paragrafo5 {
+    font-size: 1.5vw;
+}
+
+.paragrafo6 {
+    font-size: 15vmin;
+}
+
+.paragrafo7 {
+    font-size: 5vmax;
+}

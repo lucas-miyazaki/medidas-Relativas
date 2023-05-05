@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+.Zero {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.Um{
+    background-color: red;
+    width: 50vmax;
+    height: 50vmax;
+}
+
+.Dois{
+    background-color: blue;
+    width: 50vmax;
+    height: 50vmax;
+}
